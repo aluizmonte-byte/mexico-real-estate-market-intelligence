@@ -1,0 +1,33 @@
+state_code,state,housing_backlog_units,housing_without_backlog_units,total_housing_units,backlog_rate_pct,opportunity_score,rank,market_segment
+07,Chiapas,1010514,517048,1527562,66.2,82.0,1,Priority need markets
+30,Veracruz,1090501,1403376,2493877,43.7,76.8,2,Priority need markets
+20,Oaxaca,608586,587979,1196565,50.9,55.2,3,Priority need markets
+27,Tabasco,472099,268140,740239,63.8,54.8,4,Priority need markets
+12,Guerrero,484667,506138,990805,48.9,48.0,5,Priority need markets
+15,Estado de México,533829,4505633,5039462,10.6,45.4,6,Scale-led markets
+02,Baja California,474035,714617,1188652,39.9,43.3,7,Priority need markets
+08,Chihuahua,441301,775057,1216358,36.3,40.1,8,Priority need markets
+16,Michoacán,385276,1022595,1407871,27.4,33.5,9,Priority need markets
+21,Puebla,403118,1461936,1865054,21.6,32.9,10,Priority need markets
+26,Sonora,263290,678306,941596,28.0,26.8,11,Priority need markets
+04,Campeche,115596,154931,270527,42.7,26.1,12,High-rate niche markets
+11,Guanajuato,221803,1525015,1746818,12.7,19.8,13,Scale-led markets
+09,Ciudad de México,182009,2847715,3029724,6.0,19.7,14,Scale-led markets
+14,Jalisco,196356,2426311,2622667,7.5,19.5,15,Scale-led markets
+13,Hidalgo,157728,806497,964225,16.4,15.9,16,Scale-led markets
+24,San Luis Potosí,135358,698457,833815,16.2,14.4,17,Scale-led markets
+17,Morelos,114985,483051,598036,19.2,14.2,18,High-rate niche markets
+10,Durango,106894,425858,532752,20.1,14.1,19,High-rate niche markets
+18,Nayarit,80646,304695,385341,20.9,12.9,20,High-rate niche markets
+28,Tamaulipas,129401,978389,1107790,11.7,12.7,21,Lower-priority markets
+06,Colima,54659,187165,241824,22.6,12.1,22,High-rate niche markets
+03,Baja California Sur,58987,216172,275159,21.4,11.8,23,High-rate niche markets
+32,Zacatecas,85889,389200,475089,18.1,11.8,24,Lower-priority markets
+19,Nuevo León,106370,1737413,1843783,5.8,11.5,25,Lower-priority markets
+31,Yucatán,98456,608008,706464,13.9,11.0,26,Lower-priority markets
+05,Coahuila,88072,922606,1010678,8.7,8.9,27,Lower-priority markets
+23,Quintana Roo,74772,515512,590284,12.7,8.8,28,Lower-priority markets
+22,Querétaro,76539,664786,741325,10.3,8.2,29,Lower-priority markets
+25,Sinaloa,78259,861439,939698,8.3,8.0,30,Lower-priority markets
+29,Tlaxcala,34795,366227,401022,8.7,4.1,31,Lower-priority markets
+01,Aguascalientes,16755,414225,430980,3.9,0.8,32,Lower-priority markets

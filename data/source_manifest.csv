@@ -1,0 +1,4 @@
+dataset,period,geography,provider,official_page,direct_share,retrieved_at,usage
+Rezago habitacional,2024,State,SNIIV - SEDATU,https://sniiv.sedatu.gob.mx/Reporte/Datos_abiertos,https://sistemas.sedatu.gob.mx/repositorio/s/HXsrMcyMS_iLS0Mk3ezWVQ,2026-10-05,Core analysis
+Demanda de vivienda,2026,National,Sociedad Hipotecaria Federal,https://www.gob.mx/shf/documentos/demanda-de-vivienda-2026,,2026-10-05,Context only
+Indice SHF de Precios de la Vivienda,Q2 2026,National,Sociedad Hipotecaria Federal,https://www.gob.mx/shf/articulos/indice-shf-de-precios-de-la-vivienda-en-mexico-segundo-trimestre-de-2026?idiom=es,,2026-10-05,Context only
